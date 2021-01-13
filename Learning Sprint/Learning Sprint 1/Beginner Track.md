@@ -42,9 +42,9 @@ https://www.geeksforgeeks.org/two-pointers-technique/
 
 2. https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
 
-        3 .https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1
+3 .https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1
 
-         4 .https://leetcode.com/problems/container-with-most-water/
+4 .https://leetcode.com/problems/container-with-most-water/
 
 
 **Lots of problems that were given to you on Day1 and Day2 can be optimized using two pointer algorithm. Try to optimize your previous codes.**
